@@ -7,7 +7,7 @@ var style_poly1_2 = function(feature, resolution){
         variables: {}
     };
     var value = ""
-    var labelText = "3.34 acre";
+    var labelText = "3.31 acre";
     size = 0;
     var labelFont = "18px sans-serif";
     var labelFill = "#fff";
